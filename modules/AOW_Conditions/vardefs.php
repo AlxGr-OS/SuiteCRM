@@ -155,7 +155,7 @@ $dictionary['AOW_Condition'] = array(
     'reportable' => true,
     'unified_search' => false,
     'merge_filter' => 'disabled',
-    'len' => '255',
+    'len' => '1000',
     'size' => '20',
   ),
   'aow_workflow' =>
